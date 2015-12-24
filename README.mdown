@@ -1,27 +1,27 @@
 Hidden Files
-=======
+============
 
-Hidden file widget make life easier with one click for all the [Mac OSX][] users who have find hide/show operation cumbersome through terminal.
+Hidden file widget make life easier with one click for all the [Mac OSX][] users who have find hide/show operation difficult through terminal.
 
 [![](http://farm6.static.flickr.com/5275/5849111799_15f204b898_m.jpg)](http://farm6.static.flickr.com/5275/5849111799_15f204b898_m.jpg)
 
 Installation
-=======
+============
 
-It's really a matter of seconds to play around this handful utility. In order to install this dashboard widget please follow the below steps;
+Its really a matter of seconds to play around with this handful utility. In order to install dashboard widget please follow the below steps;
 
 1. Unzip the `.zip` file and then click on the `Hidden Files.widget` inside the directory.
 
-2. It will show the popup with two options. Select `Keep` option which will install this widget in the dashboard directory.
+2. The `Hidden Files` widget will show the popup with two options. Select `Keep` option that will install widget in the dashboard directory.
 
 3. Press `F4` key and select the `Hidden Files` widget from the list of other installed widgets and place it any where on the screen.
 
 4. It's done!
 
 Usage
-=======
+======
 
-Well it's really easy to use this widget as initially shows the current state of the hidden files either it's ([![](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)) hidden or ([![](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)) visible. And you can perform the respective operation through `show/hide` button click. Enjoy!
+Well its really easy to use `Hidden Files` widget - as initially it shows the current state of the hidden files either its ([![](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)) hidden OR ([![](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)) visible. And you can select the `show/hide` option on button toggle. Enjoy!
   
 License
 =======
