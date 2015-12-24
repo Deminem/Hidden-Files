@@ -21,7 +21,9 @@ Its really a matter of seconds to play around with this handful utility. In orde
 Usage
 ======
 
-Well its really easy to use `Hidden Files` widget - as initially it shows the current state of the hidden files either its ([![](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)) hidden OR ([![](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)) visible. And you can select the `show/hide` option on button toggle. Enjoy!
+Well its really easy to use `Hidden Files` widget - as initially it shows the current state of the hidden files either its [![](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg)](http://farm4.static.flickr.com/3227/5849742656_a2755eb3f3_t.jpg) hidden OR [![](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg)](http://farm4.static.flickr.com/3077/5849185243_5761613edb_t.jpg) visible. And you can select the `show/hide` option on button toggle. 
+
+Enjoy!
   
 License
 =======
